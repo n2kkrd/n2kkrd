@@ -1,42 +1,22 @@
 <h1 align="center">Nikita Postnov</h1>
 
 <p align="center">
-  <strong>Project Manager</strong><br>
-  Technical background · Product thinking · Software delivery
-</p>
-
-<p align="center">
-  <a href="https://t.me/pretosblade">Telegram ↗</a>
+  Project Manager<br>
+  Previously a frontend developer
 </p>
 
 ---
 
-### About
+I manage software projects, mostly internal tools and integrations. My work covers requirements, priorities, planning, and releases. I spend a lot of time talking to the people who use the software and working through the details with developers.
 
-I’m a project manager with a background in frontend development. I work with business stakeholders and engineering teams to turn requirements into clear tasks, set priorities, and coordinate delivery.
+I also work on the product side: mapping workflows, deciding what belongs in the first version, and reviewing feedback after release. I like clear tasks, realistic plans, and decisions that the team can refer back to.
 
-My focus is on internal tools, business processes, and integrations: understanding how people work, defining what needs to change, and following the work through implementation, testing, and release.
-
-### Expertise
-
-| Project management | Product & analysis | Technical foundation |
-| :--- | :--- | :--- |
-| Backlog management & prioritization | Requirements gathering | HTML, CSS & JavaScript |
-| Delivery planning & coordination | Process mapping & user flows | React & Vue |
-| Stakeholder communication | Feature scoping & trade-offs | Git & GitHub |
-| Dependencies & risk management | Acceptance criteria & validation | API integration concepts |
-| Release & QA coordination | User feedback & iteration | Figma & interface review |
-
-### How I work
-
-- Clarify the problem, expected outcome, and constraints before planning the solution.
-- Keep the next priorities clear and break larger initiatives into manageable steps.
-- Document decisions, ownership, and dependencies so the team can act on them.
-- Define acceptance criteria early and follow delivery through testing and release.
-- Use my development background to discuss technical trade-offs with engineers.
+Before moving into project management, I worked in frontend development with JavaScript, React, and Vue. I still use that background when reviewing interfaces in Figma, discussing APIs, or investigating an issue with the team.
 
 ---
 
 <p align="center">
-  <a href="https://t.me/pretosblade">Contact me on Telegram</a>
+  <a href="https://t.me/prega8">Telegram · @prega8</a>
+  &nbsp;&nbsp; / &nbsp;&nbsp;
+  <a href="mailto:nikitapostnovm@gmail.com">nikitapostnovm@gmail.com</a>
 </p>

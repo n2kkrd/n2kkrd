@@ -1,22 +1,21 @@
 <h1 align="center">Nikita Postnov</h1>
 
 <p align="center">
-  Project Manager<br>
-  Previously a frontend developer
+  <strong>Project Manager</strong>
 </p>
 
 ---
 
-I manage software projects, mostly internal tools and integrations. My work covers requirements, priorities, planning, and releases. I spend a lot of time talking to the people who use the software and working through the details with developers.
+I’m a project manager with experience across different products, teams, and business environments. I take ownership of delivery: turn goals into actionable plans, align stakeholders, and coordinate the work from the initial brief through launch and follow-up.
 
-I also work on the product side: mapping workflows, deciding what belongs in the first version, and reviewing feedback after release. I like clear tasks, realistic plans, and decisions that the team can refer back to.
+My work combines planning and execution with the decisions that keep a project moving. I define scope, prioritize work, manage dependencies and risks, and make responsibilities clear. When requirements or constraints change, I help the team assess the impact and agree on a realistic way forward.
 
-Before moving into project management, I worked in frontend development with JavaScript, React, and Vue. I still use that background when reviewing interfaces in Figma, discussing APIs, or investigating an issue with the team.
+I bring a product perspective to those decisions: understanding the user’s problem, weighing business value against effort, and using feedback to guide improvements. My background in frontend development also helps me work closely with engineers, discuss technical trade-offs, and review the quality of the final experience.
 
 ---
 
 <p align="center">
-  <a href="https://t.me/prega8">Telegram · @prega8</a>
-  &nbsp;&nbsp; / &nbsp;&nbsp;
-  <a href="mailto:nikitapostnovm@gmail.com">nikitapostnovm@gmail.com</a>
+  <a href="https://t.me/prega8"><img src="https://img.shields.io/badge/Telegram-334155?style=flat-square&amp;logo=telegram&amp;logoColor=white" alt="Telegram" height="26"></a>
+  &nbsp;
+  <a href="mailto:nikitapostnovm@gmail.com"><img src="https://img.shields.io/badge/Gmail-334155?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Gmail" height="26"></a>
 </p>
